@@ -1,0 +1,10 @@
+﻿# Folders
+bin/
+obj/
+Kaitlyn/
+.vs/
+
+# Files
+.suo
+config.json
+Kaitlyn.sln
